@@ -1,16 +1,24 @@
-## Hi there 👋
+CHAKIROU KOUDORO
+Industrial Engineer | MLOps | AI
 
-<!--
-**chakirou18/chakirou18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer graduated from EIGSI La Rochelle.
 
-Here are some ideas to get you started:
+I am currently developing my skills in:
+• MLOps
+• Machine Learning
+• Cloud & DevOps
+• AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TECHNOLOGIES
+
+Python | SQL | Docker | Kubernetes
+Github |GitHub Actions | GCP | 
+Scikit-learn | MLflow | Kubeflow
+LangChain | LangGraph | MCP
+
+FEATURED PROJECTS
+
+→ Iris MLOps Pipeline
+→ Hotel Reservation Prediction
+→ AI Agent with LangGraph & MCP
+→ Industrial Digitalization Project
