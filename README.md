@@ -16,7 +16,7 @@ I am currently developing my skills in three main areas:
 
 **Programming & Data:** Python | SQL | C/C++ | Pandas | NumPy
 
-**AI Agents & AI Development:** LangChain | LangGraph | MCP | RAG | LLM Applications
+**AI Agents & AI Development:** LangChain | LangGraph | MCP | RAG | OpenAI CLI |LLM Application
 
 **Machine Learning:** Scikit-learn | Jupyter Notebook | Model Evaluation | Feature Engineering
 
