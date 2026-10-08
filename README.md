@@ -7,7 +7,7 @@
 I am currently developing my skills in three main areas:
 
 - **AI Agents & AI Development:** LLMs, LangChain, LangGraph, MCP, RAG, multi-agent systems and AI-assisted software development.
-- **Machine Learning & MLOps:** Supervised and unsupervised learning, data preprocessing, model training, evaluation, deployment and experiment tracking.
+- **Machine Learning & MLOps:** Supervised and unsupervised learning, deep learning, data preprocessing, model training, evaluation, deployment and experiment tracking.
 - **Embedded AI & AIoT:** Edge AI, TinyML, microcontrollers, sensor data processing and intelligent IoT systems.
 
 ---
