@@ -1,24 +1,25 @@
-CHAKIROU KOUDORO
-Industrial Engineer | MLOps | AI
+# Hi, I'm Chakirou KOUDORO 👋
 
-Engineer graduated from EIGSI La Rochelle.
+### Industrial Engineer | AI Agents | Machine Learning | Embedded AI
 
-I am currently developing my skills in:
-• MLOps
-• Machine Learning
-• Cloud & DevOps
-• AI Agents
+🎓 Engineering graduate from EIGSI La Rochelle, specialized in Industry 4.0 and Industrial Digitalization.
 
-TECHNOLOGIES
+I am currently developing my skills in three main areas:
 
-Python | SQL | Docker | Kubernetes
-Github |GitHub Actions | GCP | 
-Scikit-learn | MLflow | Kubeflow
-LangChain | LangGraph | MCP
+- 🤖 **AI Agents:** LLMs, LangChain, LangGraph, MCP, RAG and multi-agent systems.
+- 🧠 **Machine Learning:** Supervised and unsupervised learning, deep learning, data preprocessing, model training and evaluation, model deployment.
+- 🔌 **Embedded AI & AIoT:** Edge AI, TinyML, microcontrollers, sensor data processing and intelligent IoT systems.
 
-FEATURED PROJECTS
+---
 
-→ Iris MLOps Pipeline
-→ Hotel Reservation Prediction
-→ AI Agent with LangGraph & MCP
-→ Industrial Digitalization Project
+### 🛠️ Technologies
+
+**Programming:** Python | SQL | C/C++
+
+**AI Agents:** LangChain | LangGraph | MCP | RAG
+
+**Machine Learning:** Scikit-learn | Pandas | NumPy
+
+**Embedded AI & AIoT:** ESP32 | Arduino | Edge Impulse | TensorFlow Lite Micro
+
+**Development Tools:** Git | GitHub | VS Code | Jupyter Notebook
