@@ -1,4 +1,4 @@
-# Hi, I'm Chakirou KOUDORO 👋
+# Hi, I'm Chakirou KOUDORO 
 
 ### Industrial Engineer | AI Agents | Machine Learning | Embedded AI
 
