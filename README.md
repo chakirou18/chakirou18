@@ -37,6 +37,7 @@ I am currently developing my skills in three main areas:
 - [Order Tracker](https://github.com/chakirou18/order-tracker)
 - [Agent Relay](https://github.com/chakirou18/agent-relay)
 - [LangChain Practice Projects](https://github.com/chakirou18/Project-practice_langchain)
+- [AI-Officeflow](https://github.com/chakirou18/AI-OfficeFlow)
 
 #### 🧠 Machine Learning & MLOps
 
