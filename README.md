@@ -52,6 +52,4 @@ I am currently developing my skills in three main areas:
 
 ### 🔌 Embedded AI & AIoT
 
-Currently working on practical projects involving microcontrollers, sensor data processing, TinyML and human activity recognition.
-
-Projects will be added as development progresses.
+- [HumanActivitiesRecognitionProject](https://github.com/chakirou18/HAR_project)
