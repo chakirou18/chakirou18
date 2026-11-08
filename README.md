@@ -12,7 +12,7 @@ I am currently developing my skills in three main areas:
 
 ---
 
-### 🛠️ Technologies & Development Tools
+### Technologies & Development Tools
 
 **Programming & Data:** Python | SQL | C/C++ | Pandas | NumPy
 
