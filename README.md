@@ -20,7 +20,7 @@ I am currently developing my skills in three main areas:
 
 **Machine Learning:** Scikit-learn | Jupyter Notebook | Model Evaluation | Feature Engineering
 
-**MLOps & Deployment:** MLflow | Docker | Kubernetes | Kubeflow | GitHub Actions | GCP
+**MLOps & Deployment:** MLflow | Docker | Kubernetes | Kubeflow | GitHub Actions | AWS
 
 **Embedded AI & AIoT:** ESP32 | Arduino | Edge Impulse | TensorFlow Lite Micro | IoT Sensors
 
