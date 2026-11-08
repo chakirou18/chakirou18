@@ -28,9 +28,9 @@ I am currently developing my skills in three main areas:
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🤖 AI Agents & AI Development
+#### AI Agents & AI Development
 
 - [Managing Chores](https://github.com/chakirou18/managing_chores)
 - [Basketball Scoreboard](https://github.com/chakirou18/basketball-scoreboard)
@@ -39,7 +39,7 @@ I am currently developing my skills in three main areas:
 - [LangChain Practice Projects](https://github.com/chakirou18/Project-practice_langchain)
 - [AI-Officeflow](https://github.com/chakirou18/AI-OfficeFlow)
 
-#### 🧠 Machine Learning & MLOps
+#### Machine Learning & MLOps
 
 - [Iris ML Deployment](https://github.com/chakirou18/Iris_project_ml-deployment)
 - [Iris ML Deployment 2](https://github.com/chakirou18/Iris_project_ml-deployment2)
@@ -50,6 +50,6 @@ I am currently developing my skills in three main areas:
 
 ---
 
-### 🔌 Embedded AI & AIoT
+###  Embedded AI & AIoT
 
 - [HumanActivitiesRecognitionProject](https://github.com/chakirou18/HAR_project)
